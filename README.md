@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.svg">
-    <img src="assets/hero-animated.svg" alt="Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos. Tecnología que resuelve. Atención que acompaña." width="100%" />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.svg">
+    <img src="assets/hero-motion.svg" alt="Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos. Tecnología que resuelve. Atención que acompaña." width="100%" />
   </picture>
 </div>
 
@@ -78,6 +78,6 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 *Open to opportunities in IT support, networking, software development and data.*
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-static.svg">
-  <img src="assets/footer-animated.svg" alt="Tecnología que resuelve. Atención que acompaña." width="100%" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-still.svg">
+  <img src="assets/footer-motion.svg" alt="Tecnología que resuelve. Atención que acompaña." width="100%" />
 </picture>
