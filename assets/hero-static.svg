@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos</title>
+  <desc id="heroDesc">Tecnología que resuelve. Atención que acompaña. Portafolio de Sebastián Peraza Desanti, Costa Rica.</desc>
+  <defs>
+    <radialGradient id="bgGold" cx="7%" cy="0%" r="72%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.18"/>
+      <stop offset="58%" stop-color="#f5c15c" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#f5c15c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgCyan" cx="92%" cy="26%" r="58%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="46%" r="72%">
+      <stop offset="58%" stop-color="#050b14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050b14" stop-opacity="0.72"/>
+    </radialGradient>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#94b4d6" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff2c2"/><stop offset="38%" stop-color="#f5c15c"/><stop offset="100%" stop-color="#d99a2b"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="34%" cy="27%" r="79%">
+      <stop offset="0%" stop-color="#fff8dd"/>
+      <stop offset="18%" stop-color="#ffd77a"/>
+      <stop offset="48%" stop-color="#f5c15c"/>
+      <stop offset="78%" stop-color="#d99a2b"/>
+      <stop offset="100%" stop-color="#5f3b08"/>
+    </radialGradient>
+    <radialGradient id="planetShade" cx="72%" cy="78%" r="74%">
+      <stop offset="45%" stop-color="#050b14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050b14" stop-opacity="0.72"/>
+    </radialGradient>
+    <linearGradient id="ringGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0"/>
+      <stop offset="16%" stop-color="#ffd77a" stop-opacity="0.9"/>
+      <stop offset="48%" stop-color="#f5c15c" stop-opacity="0.95"/>
+      <stop offset="78%" stop-color="#5eead4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="divider" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#94b4d6" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#94b4d6" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur12" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="blur40" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="520" fill="#050b14"/>
+  <rect width="1200" height="520" fill="url(#grid)"/>
+  <rect width="1200" height="520" fill="url(#bgGold)"/>
+  <rect width="1200" height="520" fill="url(#bgCyan)"/>
+  <rect width="1200" height="520" fill="url(#vignette)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#f5c15c" opacity="0.24"/>
+  <rect x="0" y="519" width="1200" height="1" fill="#5eead4" opacity="0.12"/>
+
+  <g class="rise d1">
+    <path d="M64 45V30h15" fill="none" stroke="#f5c15c" stroke-width="1.4" stroke-opacity="0.7"/>
+    <path d="M1136 475v15h-15" fill="none" stroke="#5eead4" stroke-width="1.4" stroke-opacity="0.55"/>
+    <text x="94" y="54" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700" letter-spacing="3.1" fill="#f5c15c">PORTAFOLIO · COSTA RICA</text>
+    <circle cx="82" cy="49" r="3" fill="#5eead4"/>
+  </g>
+
+  <g class="rise d2">
+    <text x="60" y="181" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="108" font-weight="600" letter-spacing="-4" fill="url(#goldText)">Sebastián</text>
+    <text x="60" y="278" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="108" font-weight="600" letter-spacing="-4" fill="url(#goldText)">Peraza</text>
+  </g>
+
+  <g class="rise d3">
+    <text x="64" y="333" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.3" fill="#f7f9fc">Soporte TI · Redes · Desarrollo · Datos</text>
+    <text x="64" y="370" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="19" fill="#a9b8c9">Tecnología que resuelve. Atención que acompaña.</text>
+  </g>
+
+  <g class="rise d4">
+    
+    <g>
+      <rect x="64" y="407" width="120" height="36" rx="18" fill="#0b1727" fill-opacity="0.74" stroke="#f5c15c" stroke-opacity="0.34"/>
+      <circle cx="82" cy="425" r="3" fill="#f5c15c"/>
+      <text x="92" y="430" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="1.1" fill="#f7f9fc" fill-opacity="0.9">SOPORTE TI</text>
+    </g>
+    <g>
+      <rect x="194" y="407" width="79" height="36" rx="18" fill="#0b1727" fill-opacity="0.74" stroke="#5eead4" stroke-opacity="0.34"/>
+      <circle cx="212" cy="425" r="3" fill="#5eead4"/>
+      <text x="222" y="430" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="1.1" fill="#f7f9fc" fill-opacity="0.9">REDES</text>
+    </g>
+    <g>
+      <rect x="283" y="407" width="120" height="36" rx="18" fill="#0b1727" fill-opacity="0.74" stroke="#f5c15c" stroke-opacity="0.34"/>
+      <circle cx="301" cy="425" r="3" fill="#f5c15c"/>
+      <text x="311" y="430" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="1.1" fill="#f7f9fc" fill-opacity="0.9">DESARROLLO</text>
+    </g>
+    <g>
+      <rect x="413" y="407" width="79" height="36" rx="18" fill="#0b1727" fill-opacity="0.74" stroke="#5eead4" stroke-opacity="0.34"/>
+      <circle cx="431" cy="425" r="3" fill="#5eead4"/>
+      <text x="441" y="430" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="1.1" fill="#f7f9fc" fill-opacity="0.9">DATOS</text>
+    </g>
+  </g>
+
+  <g class="rise d5">
+    <line x1="64" y1="470" x2="620" y2="470" stroke="url(#divider)" stroke-width="1"/>
+    <text x="64" y="497" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" letter-spacing="0.2" fill="#7f92a7">sebastian-peraza.netlify.app  ·  github.com/Sebasprzd</text>
+  </g>
+
+  <g class="rise d6">
+    <circle cx="850" cy="493" r="3.2" fill="#5eead4" class="twinkle"/>
+    <text x="862" y="497" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="15" font-weight="700" letter-spacing="1.1" fill="#5eead4">DISPONIBILIDAD INMEDIATA</text>
+  </g>
+
+  <line x1="660" y1="72" x2="660" y2="448" stroke="url(#divider)" stroke-width="1"/>
+
+  <g class="float">
+    <circle cx="930" cy="235" r="170" fill="#f5c15c" fill-opacity="0.16" filter="url(#blur40)" class="breathe"/>
+    <g class="orbit">
+      <circle cx="930" cy="235" r="250" fill="none" stroke="#94b4d6" stroke-opacity="0.16" stroke-width="1"/>
+      <circle cx="930" cy="235" r="250" fill="none" stroke="#f5c15c" stroke-opacity="0.24" stroke-width="1" stroke-dasharray="2 13"/>
+      <circle cx="930" cy="235" r="215" fill="none" stroke="#5eead4" stroke-opacity="0.10" stroke-width="1"/>
+      <circle cx="930" cy="235" r="250" fill="none" stroke="#5eead4" stroke-opacity="0.10" stroke-width="5" stroke-dasharray="1 80" stroke-linecap="round"/>
+    </g>
+
+    <ellipse cx="930" cy="235" rx="258" ry="62" transform="rotate(-18 930 235)" fill="none" stroke="#f5c15c" stroke-opacity="0.14" stroke-width="1"/>
+    <ellipse cx="930" cy="235" rx="235" ry="55" transform="rotate(-18 930 235)" fill="none" stroke="url(#ringGold)" stroke-width="3" stroke-opacity="0.92"/>
+    <ellipse cx="930" cy="235" rx="210" ry="47" transform="rotate(-18 930 235)" fill="none" stroke="url(#ringGold)" stroke-width="1.2" stroke-opacity="0.58"/>
+
+    <circle cx="930" cy="235" r="104" fill="url(#planet)"/>
+    <circle cx="930" cy="235" r="104" fill="url(#planetShade)"/>
+    <circle cx="930" cy="235" r="104" fill="none" stroke="#5eead4" stroke-opacity="0.16" stroke-width="1"/>
+    <ellipse cx="892" cy="198" rx="52" ry="34" fill="#ffffff" fill-opacity="0.10" filter="url(#blur12)"/>
+
+    <circle cx="705" cy="118" r="4" fill="#f5c15c" class="twinkle"/>
+    <circle cx="1152" cy="344" r="3" fill="#5eead4" class="twinkle d2"/>
+    <circle cx="760" cy="432" r="2.2" fill="#f7f9fc" fill-opacity="0.5"/>
+    <circle cx="1112" cy="97" r="2.2" fill="#5eead4" fill-opacity="0.65" class="twinkle d3"/>
+    <path d="M1160 78v18M1151 87h18" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.8"/>
+  </g>
+</svg>

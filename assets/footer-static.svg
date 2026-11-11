@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220" role="img" aria-labelledby="footerTitle footerDesc">
+  <title id="footerTitle">Tecnología que resuelve. Atención que acompaña.</title>
+  <desc id="footerDesc">Cierre visual del perfil de Sebastián Peraza Desanti, Costa Rica.</desc>
+  <defs>
+    <radialGradient id="footerGold" cx="12%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#f5c15c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="footerCyan" cx="86%" cy="40%" r="50%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="footerGrid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#94b4d6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="footerGoldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff2c2"/><stop offset="38%" stop-color="#f5c15c"/><stop offset="100%" stop-color="#d99a2b"/>
+    </linearGradient>
+    <linearGradient id="footerRing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#ffd77a" stop-opacity="0.9"/>
+      <stop offset="72%" stop-color="#f5c15c" stop-opacity="0.75"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#94b4d6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="220" fill="#050b14"/>
+  <rect width="1200" height="220" fill="url(#footerGrid)"/>
+  <rect width="1200" height="220" fill="url(#footerGold)"/>
+  <rect width="1200" height="220" fill="url(#footerCyan)"/>
+  <rect x="0" y="0" width="1200" height="1" fill="#f5c15c" opacity="0.22"/>
+  <rect x="0" y="219" width="1200" height="1" fill="#5eead4" opacity="0.10"/>
+
+  <g class="footer-rise footer-d1">
+    <text x="64" y="52" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" letter-spacing="2.6" fill="#f5c15c">GRACIAS POR VISITAR</text>
+    <line x1="64" y1="70" x2="760" y2="70" stroke="url(#footerLine)" stroke-width="1"/>
+  </g>
+
+  <g class="footer-rise footer-d2">
+    <text x="60" y="132" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="52" font-weight="600" letter-spacing="-1.4" fill="url(#footerGoldText)">Tecnología que resuelve.</text>
+    <text x="60" y="184" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="52" font-weight="600" letter-spacing="-1.4" fill="url(#footerGoldText)">Atención que acompaña.</text>
+  </g>
+
+  <g class="footer-rise footer-d2">
+    <text x="64" y="210" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" letter-spacing="0.35" fill="#7f92a7">Orotina, Costa Rica  ·  Español nativo  ·  English B2  ·  Disponibilidad inmediata</text>
+  </g>
+
+  <g class="footer-float">
+    <circle cx="1010" cy="112" r="58" fill="#f5c15c" fill-opacity="0.14" filter="url(#blur40)"/>
+    <ellipse cx="1010" cy="112" rx="122" ry="29" transform="rotate(-18 1010 112)" fill="none" stroke="url(#footerRing)" stroke-width="2.4"/>
+    <ellipse cx="1010" cy="112" rx="103" ry="23" transform="rotate(-18 1010 112)" fill="none" stroke="url(#footerRing)" stroke-width="1" stroke-opacity="0.55"/>
+    <circle cx="1010" cy="112" r="43" fill="url(#planet)"/>
+    <circle cx="1010" cy="112" r="43" fill="url(#planetShade)"/>
+    <circle cx="1010" cy="112" r="43" fill="none" stroke="#5eead4" stroke-opacity="0.16" stroke-width="1"/>
+    <circle cx="995" cy="97" r="1.8" fill="#5eead4" class="footer-twinkle"/>
+  </g>
+</svg>

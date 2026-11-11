@@ -60,10 +60,10 @@
     .d4 { animation-delay: 440ms; }
     .d5 { animation-delay: 560ms; }
     .d6 { animation-delay: 680ms; }
-    .float { animation: float 9s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-    .orbit { animation: orbit 90s linear infinite; transform-box: view-box; transform-origin: 930px 235px; }
-    .breathe { animation: breathe 7s ease-in-out infinite; }
-    .twinkle { animation: twinkle 5s ease-in-out infinite; }
+    .float { animation: float 6.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .orbit { animation: orbit 55s linear infinite; transform-box: view-box; transform-origin: 930px 235px; }
+    .breathe { animation: breathe 5.5s ease-in-out infinite; }
+    .twinkle { animation: twinkle 4.5s ease-in-out infinite; }
     .twinkle.d2 { animation-delay: 1.4s; }
     .twinkle.d3 { animation-delay: 2.6s; }
     @keyframes rise {
@@ -72,7 +72,7 @@
     }
     @keyframes float {
       0%, 100% { transform: translateY(0); }
-      50% { transform: translateY(-10px); }
+      50% { transform: translateY(-14px); }
     }
     @keyframes orbit { to { transform: rotate(360deg); } }
     @keyframes breathe {
@@ -82,12 +82,6 @@
     @keyframes twinkle {
       0%, 100% { opacity: 0.25; }
       50% { opacity: 0.95; }
-    }
-    @media (prefers-reduced-motion: reduce) {
-      .rise, .float, .orbit, .breathe, .twinkle { animation: none !important; }
-      .rise { opacity: 1; transform: none; }
-      .float, .orbit { transform: none; }
-      .breathe, .twinkle { opacity: 0.75; }
     }
   </style>
 
