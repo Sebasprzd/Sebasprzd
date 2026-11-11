@@ -123,6 +123,14 @@
       <circle cx="930" cy="235" r="250" fill="none" stroke="#5eead4" stroke-opacity="0.10" stroke-width="5" stroke-dasharray="1 80" stroke-linecap="round"/>
     </g>
 
+    <g class="orbit-fast">
+      <circle cx="930" cy="15" r="8" fill="#f5c15c" fill-opacity="0.14"/>
+      <circle cx="930" cy="15" r="3.6" fill="#f5c15c" fill-opacity="0.95"/>
+    </g>
+    <g class="orbit-reverse">
+      <circle cx="930" cy="455" r="2.6" fill="#5eead4" fill-opacity="0.85"/>
+    </g>
+
     <ellipse cx="930" cy="235" rx="258" ry="62" transform="rotate(-18 930 235)" fill="none" stroke="#f5c15c" stroke-opacity="0.14" stroke-width="1"/>
     <ellipse cx="930" cy="235" rx="235" ry="55" transform="rotate(-18 930 235)" fill="none" stroke="url(#ringGold)" stroke-width="3" stroke-opacity="0.92"/>
     <ellipse cx="930" cy="235" rx="210" ry="47" transform="rotate(-18 930 235)" fill="none" stroke="url(#ringGold)" stroke-width="1.2" stroke-opacity="0.58"/>
