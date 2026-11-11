@@ -29,6 +29,7 @@
       <stop offset="100%" stop-color="#94b4d6" stop-opacity="0"/>
     </linearGradient>
   </defs>
+  
 
   <rect width="1200" height="220" fill="#050b14"/>
   <rect width="1200" height="220" fill="url(#footerGrid)"/>

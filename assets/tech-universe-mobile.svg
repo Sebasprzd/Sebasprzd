@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 980" width="600" height="980" role="img" aria-labelledby="techTitle techDesc">
+  <title id="techTitle">Tech Universe de Sebastián Peraza</title>
+  <desc id="techDesc">Mapa de tecnologías organizado en tarjetas: TypeScript, React, Next.js, C#/.NET, Java, Python, SQL, MongoDB, Docker, Linux, AWS y Cisco.</desc>
+  <defs>
+    <radialGradient id="techBgGold" cx="20%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#f5c15c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="techBgCyan" cx="90%" cy="55%" r="55%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="techCore" cx="34%" cy="27%" r="80%">
+      <stop offset="0%" stop-color="#fff8dd"/>
+      <stop offset="35%" stop-color="#f5c15c"/>
+      <stop offset="100%" stop-color="#d99a2b"/>
+    </radialGradient>
+    <pattern id="techGrid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#94b4d6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="980" fill="#050b14"/>
+  <rect width="600" height="980" fill="url(#techGrid)"/>
+  <rect width="600" height="980" fill="url(#techBgGold)"/>
+  <rect width="600" height="980" fill="url(#techBgCyan)"/>
+  <circle cx="151.6" cy="175.3" r="1.07" fill="#f7f9fc" opacity="0.35"/><circle cx="464.0" cy="860.8" r="0.66" fill="#f7f9fc" opacity="0.43"/><circle cx="184.2" cy="180.8" r="1.71" fill="#5eead4" opacity="0.71"/><circle cx="334.1" cy="287.5" r="2.34" fill="#5eead4" opacity="0.33"/><circle cx="145.0" cy="728.5" r="1.00" fill="#f7f9fc" opacity="0.39"/><circle cx="158.0" cy="739.5" r="1.67" fill="#f7f9fc" opacity="0.36"/><circle cx="366.0" cy="678.6" r="2.03" fill="#f7f9fc" opacity="0.47"/><circle cx="182.1" cy="433.4" r="1.53" fill="#5eead4" opacity="0.58"/><circle cx="433.7" cy="332.6" r="1.78" fill="#f7f9fc" opacity="0.67"/><circle cx="75.7" cy="162.4" r="1.20" fill="#5eead4" opacity="0.25"/><circle cx="244.9" cy="129.2" r="0.73" fill="#f7f9fc" opacity="0.22"/><circle cx="176.4" cy="902.6" r="1.96" fill="#f7f9fc" opacity="0.29"/><circle cx="590.2" cy="855.6" r="0.83" fill="#f7f9fc" opacity="0.27"/><circle cx="347.9" cy="521.8" r="1.79" fill="#5eead4" opacity="0.49"/><circle cx="476.0" cy="23.8" r="1.45" fill="#5eead4" opacity="0.77"/><circle cx="158.3" cy="936.8" r="0.72" fill="#f7f9fc" opacity="0.33"/><circle cx="386.3" cy="878.0" r="2.08" fill="#5eead4" opacity="0.48"/><circle cx="56.6" cy="869.0" r="1.10" fill="#f7f9fc" opacity="0.35"/><circle cx="599.7" cy="775.3" r="1.51" fill="#f7f9fc" opacity="0.73"/><circle cx="463.3" cy="106.2" r="1.30" fill="#f7f9fc" opacity="0.19"/><circle cx="395.9" cy="7.0" r="1.05" fill="#f7f9fc" opacity="0.28"/><circle cx="558.9" cy="835.8" r="1.52" fill="#5eead4" opacity="0.59"/><circle cx="112.9" cy="66.6" r="1.45" fill="#f7f9fc" opacity="0.22"/><circle cx="265.4" cy="125.0" r="1.77" fill="#f7f9fc" opacity="0.58"/><circle cx="219.0" cy="219.7" r="0.69" fill="#f7f9fc" opacity="0.80"/><circle cx="26.4" cy="795.5" r="1.61" fill="#5eead4" opacity="0.50"/><circle cx="448.4" cy="180.5" r="1.35" fill="#5eead4" opacity="0.74"/><circle cx="530.2" cy="147.8" r="0.99" fill="#f7f9fc" opacity="0.73"/><circle cx="487.8" cy="762.2" r="1.96" fill="#5eead4" opacity="0.47"/><circle cx="23.4" cy="384.1" r="1.46" fill="#5eead4" opacity="0.67"/><circle cx="296.3" cy="867.6" r="1.93" fill="#f7f9fc" opacity="0.39"/><circle cx="373.7" cy="508.4" r="2.10" fill="#5eead4" opacity="0.79"/><circle cx="561.8" cy="30.9" r="1.99" fill="#f7f9fc" opacity="0.63"/><circle cx="94.6" cy="661.7" r="2.22" fill="#f7f9fc" opacity="0.55"/><circle cx="251.7" cy="613.8" r="1.89" fill="#f7f9fc" opacity="0.67"/><circle cx="371.9" cy="706.0" r="1.93" fill="#5eead4" opacity="0.27"/><circle cx="173.8" cy="471.9" r="2.04" fill="#f7f9fc" opacity="0.40"/><circle cx="285.3" cy="744.3" r="0.62" fill="#f7f9fc" opacity="0.78"/><circle cx="523.1" cy="15.5" r="1.51" fill="#5eead4" opacity="0.32"/><circle cx="120.8" cy="228.5" r="2.30" fill="#5eead4" opacity="0.62"/><circle cx="235.0" cy="37.5" r="1.44" fill="#5eead4" opacity="0.43"/><circle cx="463.9" cy="557.0" r="0.79" fill="#f7f9fc" opacity="0.68"/><circle cx="185.9" cy="230.9" r="1.18" fill="#5eead4" opacity="0.39"/><circle cx="291.7" cy="269.0" r="2.13" fill="#f7f9fc" opacity="0.64"/><circle cx="557.7" cy="41.9" r="0.65" fill="#5eead4" opacity="0.29"/><circle cx="472.0" cy="47.3" r="2.04" fill="#f7f9fc" opacity="0.80"/><circle cx="15.5" cy="507.4" r="2.13" fill="#f7f9fc" opacity="0.44"/><circle cx="379.2" cy="715.7" r="1.78" fill="#5eead4" opacity="0.29"/><circle cx="207.2" cy="708.0" r="1.08" fill="#f7f9fc" opacity="0.59"/><circle cx="470.0" cy="141.5" r="1.98" fill="#f7f9fc" opacity="0.47"/><circle cx="284.3" cy="4.7" r="0.86" fill="#f7f9fc" opacity="0.58"/><circle cx="289.0" cy="760.1" r="1.06" fill="#f7f9fc" opacity="0.52"/><circle cx="340.0" cy="37.5" r="2.28" fill="#f7f9fc" opacity="0.52"/><circle cx="403.3" cy="191.1" r="1.47" fill="#f7f9fc" opacity="0.51"/><circle cx="56.8" cy="560.0" r="1.55" fill="#f7f9fc" opacity="0.54"/><circle cx="262.5" cy="934.1" r="1.75" fill="#f7f9fc" opacity="0.25"/><circle cx="539.6" cy="123.5" r="1.51" fill="#f7f9fc" opacity="0.39"/><circle cx="59.4" cy="623.1" r="1.45" fill="#f7f9fc" opacity="0.26"/><circle cx="467.0" cy="428.1" r="1.13" fill="#f7f9fc" opacity="0.41"/><circle cx="383.9" cy="711.2" r="2.18" fill="#f7f9fc" opacity="0.38"/><circle cx="207.2" cy="770.4" r="2.36" fill="#f7f9fc" opacity="0.26"/><circle cx="137.8" cy="151.2" r="2.21" fill="#f7f9fc" opacity="0.49"/><circle cx="214.0" cy="632.2" r="0.86" fill="#f7f9fc" opacity="0.54"/><circle cx="468.8" cy="752.1" r="1.12" fill="#f7f9fc" opacity="0.72"/><circle cx="518.8" cy="709.6" r="2.37" fill="#f7f9fc" opacity="0.49"/><circle cx="104.9" cy="671.0" r="1.67" fill="#f7f9fc" opacity="0.61"/><circle cx="457.2" cy="726.8" r="1.85" fill="#f7f9fc" opacity="0.28"/><circle cx="78.9" cy="500.7" r="1.25" fill="#f7f9fc" opacity="0.81"/><circle cx="207.1" cy="485.4" r="1.57" fill="#5eead4" opacity="0.33"/><circle cx="156.6" cy="867.1" r="2.20" fill="#5eead4" opacity="0.58"/>
+  <rect x="0" y="0" width="600" height="1" fill="#f5c15c" opacity="0.2"/>
+  <rect x="0" y="979" width="600" height="1" fill="#5eead4" opacity="0.1"/>
+  <text x="30" y="38" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" letter-spacing="2.4" fill="#f5c15c">TECH UNIVERSE</text>
+  <text x="570" y="38" text-anchor="end" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="1.2" fill="#7f92a7">STACK REAL · 2026</text>
+  <circle cx="300" cy="110" r="82" fill="#f5c15c" fill-opacity="0.08"/>
+  <circle cx="300" cy="110" r="30" fill="url(#techCore)"/>
+  <ellipse cx="300" cy="110" rx="62" ry="15" transform="rotate(-18 300 110)" fill="none" stroke="#f5c15c" stroke-opacity="0.6" stroke-width="2"/>
+  <ellipse cx="300" cy="110" rx="53" ry="11" transform="rotate(-18 300 110)" fill="none" stroke="#5eead4" stroke-opacity="0.28" stroke-width="1"/>
+  <text x="300" y="114" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" font-weight="700" fill="#171006">SPD</text>
+  <g>
+        <rect x="20" y="205" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="205" width="4" height="96" rx="2" fill="#3178c6" fill-opacity="0.8"/>
+        <circle cx="62" cy="253" r="21" fill="#3178c6" fill-opacity="0.08"/>
+        <circle cx="62" cy="253" r="19" fill="#08111f" stroke="#3178c6" stroke-opacity="0.7"/>
+        <text x="62" y="258" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#3178c6">TS</text>
+        <text x="96" y="249" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">TypeScript</text>
+        <text x="96" y="271" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Lenguaje</text>
+      </g><g>
+        <rect x="320" y="205" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="205" width="4" height="96" rx="2" fill="#61dafb" fill-opacity="0.8"/>
+        <circle cx="362" cy="253" r="21" fill="#61dafb" fill-opacity="0.08"/>
+        <circle cx="362" cy="253" r="19" fill="#08111f" stroke="#61dafb" stroke-opacity="0.7"/>
+        <text x="362" y="258" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#61dafb">R</text>
+        <text x="396" y="249" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">React</text>
+        <text x="396" y="271" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Frontend</text>
+      </g><g>
+        <rect x="20" y="315" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="315" width="4" height="96" rx="2" fill="#f7f9fc" fill-opacity="0.8"/>
+        <circle cx="62" cy="363" r="21" fill="#f7f9fc" fill-opacity="0.08"/>
+        <circle cx="62" cy="363" r="19" fill="#08111f" stroke="#f7f9fc" stroke-opacity="0.7"/>
+        <text x="62" y="368" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#f7f9fc">N</text>
+        <text x="96" y="359" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Next.js</text>
+        <text x="96" y="381" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Framework</text>
+      </g><g>
+        <rect x="320" y="315" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="315" width="4" height="96" rx="2" fill="#a179dc" fill-opacity="0.8"/>
+        <circle cx="362" cy="363" r="21" fill="#a179dc" fill-opacity="0.08"/>
+        <circle cx="362" cy="363" r="19" fill="#08111f" stroke="#a179dc" stroke-opacity="0.7"/>
+        <text x="362" y="368" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#a179dc">C#</text>
+        <text x="396" y="359" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">C# / .NET</text>
+        <text x="396" y="381" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Backend</text>
+      </g><g>
+        <rect x="20" y="425" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="425" width="4" height="96" rx="2" fill="#ed8b00" fill-opacity="0.8"/>
+        <circle cx="62" cy="473" r="21" fill="#ed8b00" fill-opacity="0.08"/>
+        <circle cx="62" cy="473" r="19" fill="#08111f" stroke="#ed8b00" stroke-opacity="0.7"/>
+        <text x="62" y="478" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#ed8b00">J</text>
+        <text x="96" y="469" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Java</text>
+        <text x="96" y="491" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Backend</text>
+      </g><g>
+        <rect x="320" y="425" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="425" width="4" height="96" rx="2" fill="#3776ab" fill-opacity="0.8"/>
+        <circle cx="362" cy="473" r="21" fill="#3776ab" fill-opacity="0.08"/>
+        <circle cx="362" cy="473" r="19" fill="#08111f" stroke="#3776ab" stroke-opacity="0.7"/>
+        <text x="362" y="478" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#3776ab">Py</text>
+        <text x="396" y="469" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Python</text>
+        <text x="396" y="491" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Lenguaje</text>
+      </g><g>
+        <rect x="20" y="535" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="535" width="4" height="96" rx="2" fill="#f29111" fill-opacity="0.8"/>
+        <circle cx="62" cy="583" r="21" fill="#f29111" fill-opacity="0.08"/>
+        <circle cx="62" cy="583" r="19" fill="#08111f" stroke="#f29111" stroke-opacity="0.7"/>
+        <text x="62" y="588" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#f29111">SQL</text>
+        <text x="96" y="579" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">SQL</text>
+        <text x="96" y="601" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Datos</text>
+      </g><g>
+        <rect x="320" y="535" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="535" width="4" height="96" rx="2" fill="#47a248" fill-opacity="0.8"/>
+        <circle cx="362" cy="583" r="21" fill="#47a248" fill-opacity="0.08"/>
+        <circle cx="362" cy="583" r="19" fill="#08111f" stroke="#47a248" stroke-opacity="0.7"/>
+        <text x="362" y="588" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#47a248">M</text>
+        <text x="396" y="579" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">MongoDB</text>
+        <text x="396" y="601" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">NoSQL</text>
+      </g><g>
+        <rect x="20" y="645" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="645" width="4" height="96" rx="2" fill="#2496ed" fill-opacity="0.8"/>
+        <circle cx="62" cy="693" r="21" fill="#2496ed" fill-opacity="0.08"/>
+        <circle cx="62" cy="693" r="19" fill="#08111f" stroke="#2496ed" stroke-opacity="0.7"/>
+        <text x="62" y="698" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#2496ed">D</text>
+        <text x="96" y="689" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Docker</text>
+        <text x="96" y="711" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Contenedores</text>
+      </g><g>
+        <rect x="320" y="645" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="645" width="4" height="96" rx="2" fill="#fcc624" fill-opacity="0.8"/>
+        <circle cx="362" cy="693" r="21" fill="#fcc624" fill-opacity="0.08"/>
+        <circle cx="362" cy="693" r="19" fill="#08111f" stroke="#fcc624" stroke-opacity="0.7"/>
+        <text x="362" y="698" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#fcc624">L</text>
+        <text x="396" y="689" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Linux</text>
+        <text x="396" y="711" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Sistema</text>
+      </g><g>
+        <rect x="20" y="755" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="20" y="755" width="4" height="96" rx="2" fill="#ff9900" fill-opacity="0.8"/>
+        <circle cx="62" cy="803" r="21" fill="#ff9900" fill-opacity="0.08"/>
+        <circle cx="62" cy="803" r="19" fill="#08111f" stroke="#ff9900" stroke-opacity="0.7"/>
+        <text x="62" y="808" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#ff9900">AWS</text>
+        <text x="96" y="799" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">AWS</text>
+        <text x="96" y="821" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Nube</text>
+      </g><g>
+        <rect x="320" y="755" width="260" height="96" rx="16" fill="#0b1727" fill-opacity="0.88" stroke="#94b4d6" stroke-opacity="0.18"/>
+        <rect x="320" y="755" width="4" height="96" rx="2" fill="#1ba0d7" fill-opacity="0.8"/>
+        <circle cx="362" cy="803" r="21" fill="#1ba0d7" fill-opacity="0.08"/>
+        <circle cx="362" cy="803" r="19" fill="#08111f" stroke="#1ba0d7" stroke-opacity="0.7"/>
+        <text x="362" y="808" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" fill="#1ba0d7">NET</text>
+        <text x="396" y="799" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="17" font-weight="600" fill="#f7f9fc">Cisco</text>
+        <text x="396" y="821" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" letter-spacing="0.8" fill="#7f92a7">Redes</text>
+      </g>
+  <text x="30" y="932" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="0.6" fill="#7f92a7">FORMACIÓN CISCO NETWORKING ACADEMY · INGLÉS B2</text>
+  <text x="30" y="956" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="0.6" fill="#7f92a7">IT SUPPORT · NETWORKING · SOFTWARE · DATA</text>
+</svg>

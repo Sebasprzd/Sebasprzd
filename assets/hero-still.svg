@@ -52,6 +52,7 @@
       <feGaussianBlur stdDeviation="40"/>
     </filter>
   </defs>
+  
 
   <rect width="1200" height="520" fill="#050b14"/>
   <rect width="1200" height="520" fill="url(#grid)"/>

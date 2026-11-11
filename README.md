@@ -1,5 +1,7 @@
 <div align="center">
   <picture>
+    <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-still.svg">
+    <source media="(max-width: 700px)" srcset="assets/hero-mobile-motion.svg">
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.svg">
     <img src="assets/hero-motion.svg" alt="Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos. Tecnología que resuelve. Atención que acompaña." width="100%" />
   </picture>
@@ -38,9 +40,24 @@ Me caracterizan la curiosidad, la atención al detalle y una comunicación cerca
 | **Desarrollo** | Sitios y aplicaciones web con Next.js, React, TypeScript y Tailwind CSS; C#/.NET y Java. |
 | **Datos** | SQL, migración, validación, control de calidad y análisis de información. |
 
-<img src="assets/section-03-stack.svg" alt="" width="100%" />
+<picture>
+  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-mobile-still.svg">
+  <source media="(max-width: 700px)" srcset="assets/astronaut-guide-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-still.svg">
+  <img src="assets/astronaut-guide.svg" alt="Un pequeño astronauta camina sobre una órbita entre estrellas" width="100%" />
+</picture>
 
-## Herramientas y tecnologías
+<img src="assets/section-03-tech.svg" alt="" width="100%" />
+
+## Tech Universe
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/tech-universe-mobile.svg">
+  <img src="assets/tech-universe.svg" alt="Mapa orbital de tecnologías: TypeScript, React, Next.js, C#/.NET, Java, Python, SQL, MongoDB, Docker, Linux, AWS y Cisco alrededor de un núcleo de soporte TI, redes, software y datos" width="100%" />
+</picture>
+
+<details>
+<summary><strong>Ver stack completo</strong></summary>
 
 **Desarrollo**  
 TypeScript · JavaScript · React · Next.js · Tailwind CSS · C#/.NET · Java · Python · REST APIs
@@ -51,9 +68,16 @@ SQL · SQL Server · MySQL · PostgreSQL · MongoDB · Firebase · Power BI · R
 **Infraestructura y redes**  
 Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Docker · AWS · Git/GitHub
 
+</details>
+
 <img src="assets/section-04-proyectos.svg" alt="" width="100%" />
 
 ## Proyectos destacados
+
+<p align="center">
+  <a href="https://hotel-villa-las-palmas-orotina.netlify.app"><img src="assets/project-hotel.svg" width="430" alt="Hotel Villa Las Palmas: sitio bilingüe para un hotel familiar en Orotina" /></a>
+  <a href="https://nexoti-cr.netlify.app"><img src="assets/project-nexoti.svg" width="430" alt="NEXOTI: plataforma local-first de gestión documental y auditoría" /></a>
+</p>
 
 **Hotel Villa Las Palmas** — Sitio informativo bilingüe para un hotel familiar en Orotina: habitaciones, villas, pase del día, galería, mapa, WhatsApp y privacidad.  
 `Next.js` `React` `TypeScript` `Tailwind CSS`  
@@ -66,10 +90,17 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 `React` `TypeScript` `Vite` `Three.js`  
 [Visitar sitio](https://sebastian-peraza.netlify.app)
 
+### Actividad
+
+Explora mis repositorios y actividad pública en [github.com/Sebasprzd](https://github.com/Sebasprzd?tab=repositories).
+
+<img src="assets/section-05-contacto.svg" alt="" width="100%" />
+
 ## Contacto
 
 - **Portafolio:** [sebastian-peraza.netlify.app](https://sebastian-peraza.netlify.app)
 - **LinkedIn:** [linkedin.com/in/sebasprzd](https://www.linkedin.com/in/sebasprzd/)
+- **GitHub:** [github.com/Sebasprzd](https://github.com/Sebasprzd)
 - **Correo:** [speraza.desa17@gmail.com](mailto:speraza.desa17@gmail.com)
 - **Ubicación:** Orotina, Alajuela, Costa Rica
 - **Idiomas:** Español nativo · English B2

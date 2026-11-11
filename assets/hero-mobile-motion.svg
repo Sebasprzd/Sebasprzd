@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720" role="img" aria-labelledby="heroTitle heroDesc">
+  <title id="heroTitle">Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos</title>
+  <desc id="heroDesc">Tecnología que resuelve. Atención que acompaña. Portafolio de Sebastián Peraza Desanti, Costa Rica.</desc>
+  <defs>
+    <radialGradient id="bgGold" cx="8%" cy="0%" r="72%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.18"/>
+      <stop offset="60%" stop-color="#f5c15c" stop-opacity="0.03"/>
+      <stop offset="100%" stop-color="#f5c15c" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="bgCyan" cx="92%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.11"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="vignette" cx="50%" cy="44%" r="75%">
+      <stop offset="60%" stop-color="#050b14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050b14" stop-opacity="0.76"/>
+    </radialGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#94b4d6" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="goldText" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff2c2"/><stop offset="38%" stop-color="#f5c15c"/><stop offset="100%" stop-color="#d99a2b"/>
+    </linearGradient>
+    <radialGradient id="planet" cx="34%" cy="27%" r="79%">
+      <stop offset="0%" stop-color="#fff8dd"/>
+      <stop offset="18%" stop-color="#ffd77a"/>
+      <stop offset="48%" stop-color="#f5c15c"/>
+      <stop offset="78%" stop-color="#d99a2b"/>
+      <stop offset="100%" stop-color="#5f3b08"/>
+    </radialGradient>
+    <radialGradient id="planetShade" cx="72%" cy="78%" r="74%">
+      <stop offset="45%" stop-color="#050b14" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#050b14" stop-opacity="0.72"/>
+    </radialGradient>
+    <linearGradient id="ringGold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0"/>
+      <stop offset="16%" stop-color="#ffd77a" stop-opacity="0.9"/>
+      <stop offset="48%" stop-color="#f5c15c" stop-opacity="0.95"/>
+      <stop offset="78%" stop-color="#5eead4" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur12" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="blur40" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="40"/>
+    </filter>
+  </defs>
+  <style>
+    .rise { animation: rise 900ms cubic-bezier(.16, 1, .3, 1) both; }
+    .d1 { animation-delay: 100ms; }
+    .d2 { animation-delay: 200ms; }
+    .d3 { animation-delay: 320ms; }
+    .d4 { animation-delay: 440ms; }
+    .d5 { animation-delay: 560ms; }
+    .float { animation: float 6.5s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .orbit { animation: orbit 55s linear infinite; transform-box: view-box; transform-origin: 300px 540px; }
+    .orbit-fast { animation: orbit 18s linear infinite; transform-box: view-box; transform-origin: 300px 540px; }
+    .orbit-reverse { animation: orbit-reverse 26s linear infinite; transform-box: view-box; transform-origin: 300px 540px; }
+    .breathe { animation: breathe 5.5s ease-in-out infinite; }
+    .twinkle { animation: twinkle 4.5s ease-in-out infinite; }
+    .twinkle.d2 { animation-delay: 1.4s; }
+    .twinkle.d3 { animation-delay: 2.6s; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(18px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes float {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-12px); }
+    }
+    @keyframes orbit { to { transform: rotate(360deg); } }
+    @keyframes orbit-reverse { to { transform: rotate(-360deg); } }
+    @keyframes breathe {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 0.95; }
+    }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.95; }
+    }
+  </style>
+  <rect width="600" height="720" fill="#050b14"/>
+  <rect width="600" height="720" fill="url(#grid)"/>
+  <rect width="600" height="720" fill="url(#bgGold)"/>
+  <rect width="600" height="720" fill="url(#bgCyan)"/>
+  <rect width="600" height="720" fill="url(#vignette)"/>
+  <rect x="0" y="0" width="600" height="1" fill="#f5c15c" opacity="0.24"/>
+  <rect x="0" y="719" width="600" height="1" fill="#5eead4" opacity="0.12"/>
+
+  <g class="rise d1">
+    <path d="M30 40V26h14" fill="none" stroke="#f5c15c" stroke-width="1.3" stroke-opacity="0.7"/>
+    <text x="58" y="44" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="2.8" fill="#f5c15c">PORTAFOLIO · COSTA RICA</text>
+    <circle cx="47" cy="39" r="2.6" fill="#5eead4"/>
+  </g>
+
+  <g class="rise d2">
+    <text x="28" y="150" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-2.4" fill="url(#goldText)">Sebastián</text>
+    <text x="28" y="215" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="66" font-weight="600" letter-spacing="-2.4" fill="url(#goldText)">Peraza</text>
+  </g>
+
+  <g class="rise d3">
+    <text x="30" y="262" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="19" font-weight="700" fill="#f7f9fc">Soporte TI · Redes · Desarrollo · Datos</text>
+    <text x="30" y="294" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="16" fill="#a9b8c9">Tecnología que resuelve. Atención que acompaña.</text>
+  </g>
+
+  <g class="rise d4">
+    
+    <g>
+      <rect x="30" y="320" width="108" height="32" rx="16" fill="#0b1727" fill-opacity="0.74" stroke="#f5c15c" stroke-opacity="0.34"/>
+      <circle cx="46" cy="336" r="2.6" fill="#f5c15c"/>
+      <text x="56" y="341" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="0.9" fill="#f7f9fc" fill-opacity="0.9">SOPORTE TI</text>
+    </g>
+    <g>
+      <rect x="148" y="320" width="71" height="32" rx="16" fill="#0b1727" fill-opacity="0.74" stroke="#5eead4" stroke-opacity="0.34"/>
+      <circle cx="164" cy="336" r="2.6" fill="#5eead4"/>
+      <text x="174" y="341" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="0.9" fill="#f7f9fc" fill-opacity="0.9">REDES</text>
+    </g>
+    <g>
+      <rect x="30" y="364" width="108" height="32" rx="16" fill="#0b1727" fill-opacity="0.74" stroke="#f5c15c" stroke-opacity="0.34"/>
+      <circle cx="46" cy="380" r="2.6" fill="#f5c15c"/>
+      <text x="56" y="385" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="0.9" fill="#f7f9fc" fill-opacity="0.9">DESARROLLO</text>
+    </g>
+    <g>
+      <rect x="148" y="364" width="71" height="32" rx="16" fill="#0b1727" fill-opacity="0.74" stroke="#5eead4" stroke-opacity="0.34"/>
+      <circle cx="164" cy="380" r="2.6" fill="#5eead4"/>
+      <text x="174" y="385" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="0.9" fill="#f7f9fc" fill-opacity="0.9">DATOS</text>
+    </g>
+  </g>
+
+  <g class="planets">
+    <circle cx="300" cy="540" r="150" fill="#f5c15c" fill-opacity="0.14" filter="url(#blur40)" class="breathe"/>
+    <g class="orbit">
+      <circle cx="300" cy="540" r="142" fill="none" stroke="#94b4d6" stroke-opacity="0.16" stroke-width="1"/>
+      <circle cx="300" cy="540" r="142" fill="none" stroke="#f5c15c" stroke-opacity="0.24" stroke-width="1" stroke-dasharray="2 13"/>
+      <circle cx="300" cy="540" r="118" fill="none" stroke="#5eead4" stroke-opacity="0.10" stroke-width="1"/>
+    </g>
+    <g class="orbit-fast">
+      <circle cx="300" cy="398" r="3.2" fill="#f5c15c" fill-opacity="0.95"/>
+    </g>
+    <g class="orbit-reverse">
+      <circle cx="300" cy="682" r="2.3" fill="#5eead4" fill-opacity="0.85"/>
+    </g>
+    <ellipse cx="300" cy="540" rx="150" ry="34" transform="rotate(-18 300 540)" fill="none" stroke="url(#ringGold)" stroke-width="2.4" stroke-opacity="0.9"/>
+    <ellipse cx="300" cy="540" rx="132" ry="29" transform="rotate(-18 300 540)" fill="none" stroke="url(#ringGold)" stroke-width="1" stroke-opacity="0.55"/>
+    <circle cx="300" cy="540" r="58" fill="url(#planet)"/>
+    <circle cx="300" cy="540" r="58" fill="url(#planetShade)"/>
+    <circle cx="300" cy="540" r="58" fill="none" stroke="#5eead4" stroke-opacity="0.16"/>
+    <ellipse cx="280" cy="518" rx="28" ry="18" fill="#ffffff" fill-opacity="0.10" filter="url(#blur12)"/>
+    <circle cx="150" cy="420" r="2.6" fill="#f5c15c" class="twinkle"/>
+    <circle cx="465" cy="470" r="2" fill="#5eead4" class="twinkle d2"/>
+    <circle cx="420" cy="640" r="1.7" fill="#f7f9fc" fill-opacity="0.5"/>
+    <path d="M506 410v14M499 417h14" fill="none" stroke="#5eead4" stroke-width="1.4" stroke-opacity="0.75"/>
+  </g>
+
+  <g class="rise d5">
+    <circle cx="30" cy="668" r="3" fill="#5eead4" class="twinkle"/>
+    <text x="42" y="672" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="1.1" fill="#5eead4">DISPONIBILIDAD INMEDIATA</text>
+    <text x="30" y="700" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11.5" letter-spacing="0.2" fill="#7f92a7">sebastian-peraza.netlify.app · github.com/Sebasprzd</text>
+  </g>
+</svg>

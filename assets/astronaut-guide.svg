@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-labelledby="guideTitle guideDesc">
+  <title id="guideTitle">Astronauta explorando una órbita</title>
+  <desc id="guideDesc">Un pequeño astronauta camina sobre una línea orbital entre estrellas y planetas lejanos.</desc>
+  <defs>
+    <linearGradient id="guideLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#f5c15c" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#5eead4" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="guideGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="guideGrid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#94b4d6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .walker { animation: walkAcross 18s linear infinite; transform-box: view-box; }
+    .astronaut-bob { animation: bob 1.1s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .leg { animation: legSwing 1.1s ease-in-out infinite alternate; transform-box: fill-box; transform-origin: top center; }
+    .leg-right { animation-direction: alternate-reverse; }
+    .arm { animation: armSwing 1.1s ease-in-out infinite alternate-reverse; transform-box: fill-box; transform-origin: top center; }
+    .arm-right { animation-direction: alternate; }
+    .guide-twinkle { animation: guideTwinkle 4s ease-in-out infinite; }
+    @keyframes walkAcross {
+      0% { transform: translateX(80px); opacity: 0; }
+      6% { opacity: 1; }
+      92% { opacity: 1; }
+      100% { transform: translateX(980px); opacity: 0; }
+    }
+    @keyframes bob {
+      0%, 100% { transform: translateY(0); }
+      50% { transform: translateY(-3px); }
+    }
+    @keyframes legSwing {
+      from { transform: rotate(-18deg); }
+      to { transform: rotate(18deg); }
+    }
+    @keyframes armSwing {
+      from { transform: rotate(-12deg); }
+      to { transform: rotate(12deg); }
+    }
+    @keyframes guideTwinkle {
+      0%, 100% { opacity: 0.25; }
+      50% { opacity: 0.9; }
+    }
+</style>
+  <rect width="1200" height="180" fill="#050b14"/>
+  <rect width="1200" height="180" fill="url(#guideGrid)"/>
+  <rect width="1200" height="180" fill="url(#guideGlow)"/>
+  <circle cx="292.1" cy="0.3" r="2.09" fill="#f7f9fc" opacity="0.42"/><circle cx="994.0" cy="96.0" r="0.68" fill="#f7f9fc" opacity="0.29"/><circle cx="501.0" cy="134.8" r="0.91" fill="#f7f9fc" opacity="0.81"/><circle cx="444.7" cy="111.2" r="1.68" fill="#f7f9fc" opacity="0.22"/><circle cx="786.6" cy="42.4" r="0.84" fill="#f7f9fc" opacity="0.58"/><circle cx="791.8" cy="66.7" r="0.94" fill="#5eead4" opacity="0.73"/><circle cx="609.1" cy="174.5" r="1.81" fill="#f7f9fc" opacity="0.76"/><circle cx="189.0" cy="159.2" r="2.02" fill="#f7f9fc" opacity="0.21"/><circle cx="171.3" cy="177.9" r="1.01" fill="#f7f9fc" opacity="0.43"/><circle cx="177.0" cy="114.8" r="1.55" fill="#f7f9fc" opacity="0.80"/><circle cx="950.9" cy="89.3" r="2.15" fill="#f7f9fc" opacity="0.38"/><circle cx="511.8" cy="136.2" r="0.98" fill="#5eead4" opacity="0.73"/><circle cx="546.8" cy="83.6" r="0.85" fill="#f7f9fc" opacity="0.44"/><circle cx="938.2" cy="16.5" r="0.89" fill="#5eead4" opacity="0.78"/><circle cx="720.2" cy="119.3" r="0.62" fill="#f7f9fc" opacity="0.79"/><circle cx="813.4" cy="142.2" r="1.57" fill="#f7f9fc" opacity="0.21"/><circle cx="424.6" cy="0.0" r="2.05" fill="#f7f9fc" opacity="0.42"/><circle cx="606.3" cy="114.3" r="1.67" fill="#f7f9fc" opacity="0.63"/><circle cx="281.6" cy="132.1" r="1.95" fill="#f7f9fc" opacity="0.67"/><circle cx="68.6" cy="179.3" r="1.15" fill="#f7f9fc" opacity="0.63"/><circle cx="744.3" cy="106.7" r="1.31" fill="#f7f9fc" opacity="0.54"/><circle cx="191.6" cy="19.0" r="1.73" fill="#f7f9fc" opacity="0.35"/><circle cx="269.2" cy="42.8" r="1.56" fill="#f7f9fc" opacity="0.56"/><circle cx="774.5" cy="59.9" r="1.58" fill="#f7f9fc" opacity="0.49"/><circle cx="771.5" cy="55.2" r="1.60" fill="#5eead4" opacity="0.38"/><circle cx="841.1" cy="94.7" r="1.82" fill="#5eead4" opacity="0.71"/><circle cx="1038.4" cy="111.1" r="2.23" fill="#f7f9fc" opacity="0.39"/><circle cx="102.3" cy="12.3" r="1.34" fill="#f7f9fc" opacity="0.64"/><circle cx="395.3" cy="90.6" r="2.24" fill="#f7f9fc" opacity="0.71"/><circle cx="458.5" cy="84.3" r="0.77" fill="#f7f9fc" opacity="0.79"/><circle cx="1139.1" cy="141.3" r="2.17" fill="#f7f9fc" opacity="0.76"/><circle cx="447.9" cy="142.9" r="1.84" fill="#f7f9fc" opacity="0.35"/><circle cx="443.9" cy="20.2" r="1.48" fill="#f7f9fc" opacity="0.27"/><circle cx="433.0" cy="72.8" r="2.15" fill="#f7f9fc" opacity="0.38"/>
+  <text x="40" y="168" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="2.4" fill="#f5c15c">EXPLORANDO</text>
+  <text x="1160" y="168" text-anchor="end" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="1.6" fill="#7f92a7">SISTEMAS · REDES · DATOS</text>
+  <path d="M40 105H1160" fill="none" stroke="url(#guideLine)" stroke-width="1.2" stroke-dasharray="3 11"/>
+  <path d="M40 105H1160" fill="none" stroke="#5eead4" stroke-opacity="0.08" stroke-width="9"/>
+  <circle cx="48" cy="105" r="9" fill="#102238" stroke="#f5c15c" stroke-opacity="0.4"/>
+  <circle cx="1148" cy="105" r="18" fill="#102238" stroke="#5eead4" stroke-opacity="0.35"/>
+  <ellipse cx="1148" cy="105" rx="32" ry="7" transform="rotate(-18 1148 105)" fill="none" stroke="#5eead4" stroke-opacity="0.35"/>
+  <circle cx="1110" cy="58" r="2.6" fill="#f5c15c" class="guide-twinkle"/>
+  <circle cx="170" cy="64" r="2" fill="#5eead4" class="guide-twinkle"/>
+  <circle cx="1030" cy="132" r="1.8" fill="#f7f9fc" opacity="0.5"/>
+  <g class="walker" transform="translate(80 0)">
+    <g transform="translate(0 105)">
+      
+  <ellipse cx="0" cy="3" rx="19" ry="4" fill="#000000" opacity="0.35"/>
+  <g class="astronaut-bob">
+    <g transform="translate(-7 -26)">
+      <g class="leg leg-left">
+        <rect x="-3.5" y="0" width="7" height="24" rx="3.5" fill="#c7d5e5"/>
+        <rect x="-5" y="22" width="12" height="6" rx="3" fill="#5eead4"/>
+      </g>
+    </g>
+    <g transform="translate(7 -26)">
+      <g class="leg leg-right">
+        <rect x="-3.5" y="0" width="7" height="24" rx="3.5" fill="#c7d5e5"/>
+        <rect x="-5" y="22" width="12" height="6" rx="3" fill="#5eead4"/>
+      </g>
+    </g>
+    <rect x="-14" y="-54" width="28" height="32" rx="9" fill="#dbe6f2"/>
+    <rect x="-9" y="-49" width="18" height="12" rx="3" fill="#08111f"/>
+    <circle cx="-4" cy="-43" r="2" fill="#f5c15c"/>
+    <circle cx="4" cy="-43" r="2" fill="#5eead4"/>
+    <rect x="-22" y="-55" width="10" height="31" rx="4" fill="#102238" stroke="#f5c15c" stroke-opacity="0.35"/>
+    <g transform="translate(-14 -50)">
+      <g class="arm arm-left">
+        <rect x="-3" y="0" width="6" height="22" rx="3" fill="#c7d5e5"/>
+        <circle cx="0" cy="22" r="3.5" fill="#f5c15c"/>
+      </g>
+    </g>
+    <g transform="translate(14 -50)">
+      <g class="arm arm-right">
+        <rect x="-3" y="0" width="6" height="22" rx="3" fill="#c7d5e5"/>
+        <circle cx="0" cy="22" r="3.5" fill="#5eead4"/>
+      </g>
+    </g>
+    <circle cx="0" cy="-66" r="17" fill="#e8eef7"/>
+    <circle cx="0" cy="-66" r="17" fill="none" stroke="#f5c15c" stroke-opacity="0.45"/>
+    <ellipse cx="2" cy="-66" rx="11" ry="9" fill="#07101d"/>
+    <ellipse cx="-2" cy="-70" rx="4" ry="2" fill="#5eead4" opacity="0.8"/>
+    <path d="M-8 -66c2 3 5 5 9 5" fill="none" stroke="#5eead4" stroke-opacity="0.55"/>
+  </g>
+
+    </g>
+  </g>
+</svg>
