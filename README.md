@@ -90,11 +90,23 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 `React` `TypeScript` `Vite` `Three.js`  
 [Visitar sitio](https://sebastian-peraza.netlify.app)
 
-### Actividad
+<img src="assets/section-05-actividad.svg" alt="" width="100%" />
 
-Explora mis repositorios y actividad pública en [github.com/Sebasprzd](https://github.com/Sebasprzd?tab=repositories).
+## Constelación de contribuciones
 
-<img src="assets/section-05-contacto.svg" alt="" width="100%" />
+<picture>
+  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-mobile-still.svg">
+  <source media="(max-width: 700px)" srcset="assets/activity-constellation-mobile-motion.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-still.svg">
+  <img src="assets/activity-constellation-motion.svg" alt="12 contribuciones en 4 días activos durante el último año, visualizadas como una constelación" width="100%" />
+</picture>
+
+**12 contribuciones · 4 días activos · últimos 12 meses.**  
+[Ver actividad completa en GitHub](https://github.com/Sebasprzd) · [Repositorios públicos](https://github.com/Sebasprzd?tab=repositories)
+
+*Snapshot de actividad pública. El gráfico nativo de GitHub sigue disponible en el perfil.*
+
+<img src="assets/section-06-contacto.svg" alt="" width="100%" />
 
 ## Contacto
 
