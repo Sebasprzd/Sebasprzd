@@ -90,11 +90,7 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 
 También diseño y administro sitios web para negocios. **Tu próximo cliente podría estar a un clic de distancia.**
 
-<p align="center">
-  <a href="https://hotel-villa-las-palmas-orotina.netlify.app"><img src="assets/project-hotel-card.svg" width="290" alt="Hotel Villa Las Palmas: sitio bilingüe para un hotel familiar en Orotina" /></a>
-  <a href="https://nexoti-cr.netlify.app"><img src="assets/project-nexoti-card.svg" width="290" alt="NEXOTI: plataforma local-first de gestión documental y auditoría" /></a>
-  <a href="https://sebastian-peraza.netlify.app"><img src="assets/project-portafolio-card.svg" width="290" alt="Portafolio personal: vista directa y exploración 3D opcional" /></a>
-</p>
+<p align="center"><a href="https://hotel-villa-las-palmas-orotina.netlify.app"><img src="assets/project-hotel-card.svg" width="280" alt="Hotel Villa Las Palmas: sitio bilingüe para un hotel familiar en Orotina" /></a><a href="https://nexoti-cr.netlify.app"><img src="assets/project-nexoti-card.svg" width="280" alt="NEXOTI: plataforma local-first de gestión documental y auditoría" /></a><a href="https://sebastian-peraza.netlify.app"><img src="assets/project-portafolio-card.svg" width="280" alt="Portafolio personal: vista directa y exploración 3D opcional" /></a></p>
 
 <img src="assets/section-06-actividad.svg" alt="" width="100%" />
 
