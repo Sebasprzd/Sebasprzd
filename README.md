@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-still.svg">
+    <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-still-pulse.svg">
     <source media="(max-width: 700px)" srcset="assets/hero-mobile-motion.svg">
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still-pulse.svg">
     <img src="assets/hero-motion.svg" alt="Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos. Tecnología que resuelve. Atención que acompaña." width="100%" />
   </picture>
 
@@ -54,9 +54,9 @@ He documentado y reorganizado puntos de red, llevado inventario de activos TI, d
 | **Datos** | SQL, migración, validación, control de calidad y análisis de información. |
 
 <picture>
-  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-mobile-still.svg">
+  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-mobile-still-pulse.svg">
   <source media="(max-width: 700px)" srcset="assets/astronaut-guide-mobile.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/astronaut-guide-still-pulse.svg">
   <img src="assets/astronaut-guide.svg" alt="Un pequeño astronauta camina sobre una órbita entre estrellas" width="100%" />
 </picture>
 
@@ -97,8 +97,8 @@ También diseño y administro sitios web para negocios. **Tu próximo cliente po
 ## Actividad
 
 <picture>
-  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-mobile-still.svg">
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-still.svg">
+  <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-mobile-still-pulse.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-still-pulse.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebasprzd/Sebasprzd/output/activity-snake-dark.svg">
   <img src="https://raw.githubusercontent.com/Sebasprzd/Sebasprzd/output/activity-snake.svg" alt="Serpiente recorriendo el gráfico de contribuciones de GitHub" width="100%" />
 </picture>
@@ -129,6 +129,6 @@ I am open to opportunities in IT support, networking, software development and d
 </details>
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-still.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-still-pulse.svg">
   <img src="assets/footer-motion.svg" alt="Tecnología que resuelve. Atención que acompaña." width="100%" />
 </picture>

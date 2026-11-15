@@ -80,5 +80,5 @@
       0%, 100% { opacity: 0.32; }
       50% { opacity: 0.92; }
     }
-    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+    .twinkle, .guide-twinkle, .footer-twinkle, .planet-glow, .ring-front, .planet-rim { animation: stillTwinkle 5.2s ease-in-out infinite; }
   </style></svg>
