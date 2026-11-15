@@ -127,4 +127,10 @@
     <text x="42" y="672" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="1.1" fill="#5eead4">DISPONIBILIDAD INMEDIATA</text>
     <text x="30" y="700" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11.5" letter-spacing="0.2" fill="#7f92a7">sebastian-peraza.netlify.app · github.com/Sebasprzd</text>
   </g>
-</svg>
+<style>
+    @keyframes stillTwinkle {
+      0%, 100% { opacity: 0.32; }
+      50% { opacity: 0.92; }
+    }
+    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+  </style></svg>

@@ -147,4 +147,10 @@
     <circle cx="1112" cy="97" r="2.2" fill="#5eead4" fill-opacity="0.65" class="twinkle d3"/>
     <path d="M1160 78v18M1151 87h18" fill="none" stroke="#5eead4" stroke-width="1.6" stroke-opacity="0.8"/>
   </g>
-</svg>
+<style>
+    @keyframes stillTwinkle {
+      0%, 100% { opacity: 0.32; }
+      50% { opacity: 0.92; }
+    }
+    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+  </style></svg>

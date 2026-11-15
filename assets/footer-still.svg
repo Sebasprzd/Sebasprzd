@@ -61,4 +61,10 @@
     <circle cx="1010" cy="112" r="43" fill="none" stroke="#5eead4" stroke-opacity="0.16" stroke-width="1"/>
     <circle cx="995" cy="97" r="1.8" fill="#5eead4" class="footer-twinkle"/>
   </g>
-</svg>
+<style>
+    @keyframes stillTwinkle {
+      0%, 100% { opacity: 0.32; }
+      50% { opacity: 0.92; }
+    }
+    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+  </style></svg>

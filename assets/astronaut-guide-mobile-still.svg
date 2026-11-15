@@ -75,4 +75,10 @@
   </g>
   <text x="30" y="205" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="14" font-weight="700" letter-spacing="2.2" fill="#f5c15c">EXPLORANDO</text>
   <text x="570" y="205" text-anchor="end" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" letter-spacing="1.2" fill="#7f92a7">SISTEMAS · REDES · DATOS</text>
-</svg>
+<style>
+    @keyframes stillTwinkle {
+      0%, 100% { opacity: 0.32; }
+      50% { opacity: 0.92; }
+    }
+    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+  </style></svg>

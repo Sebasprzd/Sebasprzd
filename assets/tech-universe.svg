@@ -24,6 +24,10 @@
       <path d="M64 0H0V64" fill="none" stroke="#94b4d6" stroke-opacity="0.05" stroke-width="1"/>
     </pattern>
   </defs>
+  <style>
+    .tech-orbit { animation: techOrbit 70s linear infinite; transform-box: view-box; transform-origin: 600px 320px; }
+    @keyframes techOrbit { to { transform: rotate(360deg); } }
+  </style>
   <rect width="1200" height="640" fill="#050b14"/>
   <rect width="1200" height="640" fill="url(#techGrid)"/>
   <rect width="1200" height="640" fill="url(#techBgGold)"/>
@@ -34,6 +38,13 @@
   <text x="40" y="48" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="13" font-weight="700" letter-spacing="2.4" fill="#f5c15c">TECH UNIVERSE</text>
   <text x="1160" y="48" text-anchor="end" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" letter-spacing="1.4" fill="#7f92a7">STACK REAL · 2026</text>
   <ellipse cx="600" cy="320" rx="190" ry="95" fill="none" stroke="#94b4d6" stroke-opacity="0.22" stroke-width="1"/><ellipse cx="600" cy="320" rx="330" ry="165" fill="none" stroke="#94b4d6" stroke-opacity="0.16" stroke-width="1"/><ellipse cx="600" cy="320" rx="470" ry="235" fill="none" stroke="#94b4d6" stroke-opacity="0.12" stroke-width="1"/>
+  <g class="tech-orbit">
+    <ellipse cx="600" cy="320" rx="250" ry="125" fill="none" stroke="#f5c15c" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="2 14"/>
+    <circle cx="600" cy="195" r="2.8" fill="#f5c15c"/>
+    <circle cx="850" cy="320" r="2.2" fill="#5eead4"/>
+    <circle cx="600" cy="445" r="2.2" fill="#f5c15c"/>
+    <circle cx="350" cy="320" r="1.8" fill="#5eead4"/>
+  </g>
   <circle cx="980" cy="320" r="2.4" fill="#f5c15c" opacity="0.5"/><circle cx="790" cy="280" r="3.4" fill="#5eead4" opacity="0.5"/><circle cx="600" cy="240" r="4.4" fill="#f5c15c" opacity="0.5"/>
   <circle cx="600" cy="320" r="118" fill="#f5c15c" fill-opacity="0.08"/>
   <circle cx="600" cy="320" r="42" fill="url(#techCore)"/>

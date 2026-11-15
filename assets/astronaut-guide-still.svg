@@ -76,4 +76,10 @@
 
     </g>
   </g>
-</svg>
+<style>
+    @keyframes stillTwinkle {
+      0%, 100% { opacity: 0.32; }
+      50% { opacity: 0.92; }
+    }
+    .twinkle, .guide-twinkle, .footer-twinkle { animation: stillTwinkle 5.2s ease-in-out infinite; }
+  </style></svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 44" width="220" height="44" role="img" aria-labelledby="buttonTitle buttonDesc">
+  <title id="buttonTitle">VER PORTAFOLIO</title>
+  <desc id="buttonDesc">Botón de enlace: VER PORTAFOLIO.</desc>
+  <style>
+    .button-border { animation: buttonPulse 5.5s ease-in-out infinite; }
+    @keyframes buttonPulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 0.85; }
+    }
+  </style>
+  <rect x="1" y="1" width="218" height="42" rx="21" fill="#0b1727"/>
+  <rect class="button-border" x="1" y="1" width="218" height="42" rx="21" fill="none" stroke="#f5c15c" stroke-width="1.2"/>
+  <circle cx="26" cy="22" r="7.5" fill="none" stroke="#f5c15c" stroke-width="1.4"/><path d="M18.5 22h15M26 14.5c3.2 4.2 3.2 10.8 0 15M26 14.5c-3.2 4.2-3.2 10.8 0 15" fill="none" stroke="#f5c15c" stroke-width="1.1" stroke-opacity="0.75"/>
+  <text x="46" y="27" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" font-weight="700" letter-spacing="1.15" fill="#f7f9fc">VER PORTAFOLIO</text>
+  <circle cx="202" cy="22" r="3" fill="#f5c15c" fill-opacity="0.8"/>
+</svg>

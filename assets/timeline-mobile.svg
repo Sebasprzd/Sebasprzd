@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generado desde src/styles/tokens.css por scripts/generate-github-profile-assets.mjs. No editar a mano. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 720" width="600" height="720" role="img" aria-labelledby="timelineTitle timelineDesc">
+  <title id="timelineTitle">Trayectoria profesional de Sebastián Peraza</title>
+  <desc id="timelineDesc">Hotel Villa Las Palmas, recepción y desarrollo web; Municipalidad de Orotina, práctica de desarrollo de software; GCG Culinary, práctica de soporte TI e infraestructura.</desc>
+  <defs>
+    <linearGradient id="timelineLine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#f5c15c" stop-opacity="0.65"/>
+      <stop offset="50%" stop-color="#f5c15c" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#94b4d6" stop-opacity="0.12"/>
+    </linearGradient>
+    <pattern id="timelineGrid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#94b4d6" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <style>
+    .current-pulse { animation: currentPulse 4.8s ease-in-out infinite; }
+    @keyframes currentPulse {
+      0%, 100% { opacity: 0.45; }
+      50% { opacity: 1; }
+    }
+  </style>
+  <rect width="600" height="720" fill="#050b14"/>
+  <rect width="600" height="720" fill="url(#timelineGrid)"/>
+  <circle cx="144.7" cy="329.6" r="1.90" fill="#f7f9fc" opacity="0.28"/><circle cx="205.2" cy="682.0" r="1.59" fill="#f7f9fc" opacity="0.26"/><circle cx="417.1" cy="460.9" r="1.16" fill="#5eead4" opacity="0.35"/><circle cx="344.4" cy="503.1" r="1.52" fill="#f7f9fc" opacity="0.35"/><circle cx="305.4" cy="618.1" r="0.80" fill="#f7f9fc" opacity="0.30"/><circle cx="5.4" cy="557.9" r="1.65" fill="#f7f9fc" opacity="0.82"/><circle cx="589.2" cy="27.9" r="2.21" fill="#f7f9fc" opacity="0.35"/><circle cx="372.6" cy="536.4" r="2.15" fill="#f7f9fc" opacity="0.61"/><circle cx="448.6" cy="468.4" r="2.17" fill="#5eead4" opacity="0.21"/><circle cx="91.7" cy="184.4" r="0.74" fill="#f7f9fc" opacity="0.29"/><circle cx="383.1" cy="242.7" r="1.60" fill="#f7f9fc" opacity="0.58"/><circle cx="575.8" cy="695.5" r="2.08" fill="#5eead4" opacity="0.19"/><circle cx="344.2" cy="80.8" r="0.86" fill="#f7f9fc" opacity="0.49"/><circle cx="499.4" cy="526.7" r="2.01" fill="#5eead4" opacity="0.36"/><circle cx="331.1" cy="412.0" r="2.22" fill="#5eead4" opacity="0.80"/><circle cx="168.8" cy="719.0" r="1.34" fill="#f7f9fc" opacity="0.83"/><circle cx="468.8" cy="378.8" r="0.69" fill="#f7f9fc" opacity="0.57"/><circle cx="514.8" cy="52.0" r="0.92" fill="#f7f9fc" opacity="0.22"/><circle cx="476.1" cy="338.2" r="1.16" fill="#f7f9fc" opacity="0.82"/><circle cx="227.1" cy="157.2" r="2.02" fill="#f7f9fc" opacity="0.57"/><circle cx="216.2" cy="352.4" r="2.27" fill="#f7f9fc" opacity="0.28"/><circle cx="280.1" cy="121.3" r="0.88" fill="#f7f9fc" opacity="0.78"/><circle cx="590.0" cy="21.8" r="1.59" fill="#f7f9fc" opacity="0.65"/><circle cx="117.7" cy="636.7" r="1.09" fill="#5eead4" opacity="0.31"/><circle cx="577.4" cy="415.5" r="1.83" fill="#5eead4" opacity="0.27"/><circle cx="519.1" cy="147.6" r="1.43" fill="#f7f9fc" opacity="0.44"/><circle cx="236.9" cy="162.6" r="1.10" fill="#5eead4" opacity="0.47"/><circle cx="381.4" cy="394.2" r="0.98" fill="#5eead4" opacity="0.78"/><circle cx="125.1" cy="313.2" r="0.96" fill="#5eead4" opacity="0.44"/><circle cx="580.8" cy="711.0" r="1.05" fill="#f7f9fc" opacity="0.34"/><circle cx="187.9" cy="367.0" r="1.78" fill="#f7f9fc" opacity="0.20"/><circle cx="36.5" cy="81.2" r="2.23" fill="#f7f9fc" opacity="0.56"/><circle cx="287.0" cy="455.3" r="0.90" fill="#5eead4" opacity="0.35"/><circle cx="547.0" cy="602.5" r="1.68" fill="#5eead4" opacity="0.50"/><circle cx="248.8" cy="67.7" r="1.36" fill="#5eead4" opacity="0.80"/><circle cx="428.2" cy="139.4" r="2.03" fill="#5eead4" opacity="0.28"/>
+  <line x1="62" y1="90" x2="62" y2="640" stroke="url(#timelineLine)" stroke-width="2"/>
+  <g>
+        <circle class="current-pulse" cx="62" cy="150" r="11" fill="#5eead4" fill-opacity="0.16"/>
+        <circle cx="62" cy="150" r="5" fill="#5eead4"/>
+        <text x="92" y="124" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#f5c15c">2025 — ACTUALIDAD</text>
+        <rect x="92" y="140" width="66" height="20" rx="10" fill="#5eead4" fill-opacity="0.12" stroke="#5eead4" stroke-opacity="0.45"/><text x="125" y="154" text-anchor="middle" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="9" font-weight="700" fill="#5eead4">ACTUAL</text>
+        <text x="92" y="184" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="22" font-weight="600" fill="#f7f9fc">Recepción y desarrollo web</text>
+        <text x="92" y="208" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" fill="#ffd77a">Hotel Villa Las Palmas</text>
+        <text x="92" y="232" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#a9b8c9"><tspan x="92" dy="0">Atención bilingüe, incidencias y sitio web</tspan><tspan x="92" dy="18">con Next.js, React, TypeScript y Tailwind.</tspan></text>
+      </g><g>
+        <circle class="" cx="62" cy="360" r="11" fill="#f5c15c" fill-opacity="0.16"/>
+        <circle cx="62" cy="360" r="5" fill="#f5c15c"/>
+        <text x="92" y="334" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#f5c15c">FEB — ABR 2026</text>
+        
+        <text x="92" y="394" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="22" font-weight="600" fill="#f7f9fc">Desarrollo de software</text>
+        <text x="92" y="418" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" fill="#ffd77a">Municipalidad de Orotina</text>
+        <text x="92" y="442" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#a9b8c9"><tspan x="92" dy="0">Sistema de mapeo con C#/.NET, digitalización</tspan><tspan x="92" dy="18">y control de calidad de datos catastrales.</tspan></text>
+      </g><g>
+        <circle class="" cx="62" cy="570" r="11" fill="#f5c15c" fill-opacity="0.16"/>
+        <circle cx="62" cy="570" r="5" fill="#f5c15c"/>
+        <text x="92" y="544" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="12" font-weight="700" letter-spacing="1.2" fill="#f5c15c">2026 · DOS MESES</text>
+        
+        <text x="92" y="604" font-family="Iowan Old Style, Palatino Linotype, Book Antiqua, Georgia, serif" font-size="22" font-weight="600" fill="#f7f9fc">Soporte TI e infraestructura</text>
+        <text x="92" y="628" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="14" font-weight="600" fill="#ffd77a">GCG Culinary</text>
+        <text x="92" y="652" font-family="Segoe UI, system-ui, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13" fill="#a9b8c9"><tspan x="92" dy="0">Red cableada, inventario de activos, Windows 11</tspan><tspan x="92" dy="18">y mantenimiento de equipos.</tspan></text>
+      </g>
+  <text x="30" y="698" font-family="Cascadia Code, SFMono-Regular, Consolas, Liberation Mono, monospace" font-size="11" fill="#7f92a7">TRAYECTORIA · COSTA RICA</text>
+</svg>

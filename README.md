@@ -5,31 +5,44 @@
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.svg">
     <img src="assets/hero-motion.svg" alt="Sebastián Peraza Desanti — Soporte TI, redes, desarrollo y datos. Tecnología que resuelve. Atención que acompaña." width="100%" />
   </picture>
+
+  <p>
+    <a href="https://sebastian-peraza.netlify.app"><img src="assets/btn-portafolio.svg" alt="Ver portafolio" height="44" /></a>
+    <a href="https://www.linkedin.com/in/sebasprzd/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="44" /></a>
+    <a href="mailto:speraza.desa17@gmail.com"><img src="assets/btn-correo.svg" alt="Escribirme por correo" height="44" /></a>
+  </p>
 </div>
 
 <img src="assets/section-01-perfil.svg" alt="" width="100%" />
 
-## Hola, soy Sebastián 👋
-
-Bachiller en Ingeniería en Tecnologías de la Información por la Universidad Técnica Nacional, Costa Rica. Me muevo entre la infraestructura que sostiene el trabajo diario y el software que lo hace más simple.
-
-Mi experiencia práctica combina soporte técnico, redes, desarrollo y datos. He documentado y reorganizado puntos de red, llevado inventario de activos TI, dado soporte a equipos y usuarios, participado en migración y control de calidad de datos catastrales, y desarrollado y administrado el sitio web bilingüe de un hotel.
-
-Me caracterizan la curiosidad, la atención al detalle y una comunicación cercana. Disfruto entender un problema, encontrar una solución útil y explicarla con claridad.
+## Hola, soy Sebastián
 
 > **Tecnología que resuelve. Atención que acompaña.**
->
-> Me importa que la solución funcione y que la persona que la usa se sienta acompañada.
 
-**Actualmente** trabajo en Hotel Villa Las Palmas y estoy abierto a oportunidades en soporte TI, infraestructura, redes, desarrollo de software y datos.
+Detrás de cada falla hay una persona esperando: con prisa, con dudas, con un día complicado. Mi trabajo es que esa persona vuelva a respirar tranquila.
 
-### Trayectoria
+Soy Bachiller en Ingeniería en Tecnologías de la Información por la Universidad Técnica Nacional, Costa Rica. Me muevo entre la infraestructura que sostiene el trabajo diario y el software que lo hace más simple: soporte técnico, redes, desarrollo y datos.
 
-- **GCG Culinary** — Soporte TI e infraestructura (práctica, 2026): red cableada, inventario de activos, Windows 11 y mantenimiento de equipos.
-- **Municipalidad de Orotina** — Desarrollo de software (práctica, 2026): C#/.NET, digitalización y control de calidad de datos catastrales.
-- **Hotel Villa Las Palmas** — Recepción y desarrollo web (2025 – actualidad): atención bilingüe y sitio web con Next.js, React, TypeScript y Tailwind CSS.
+He documentado y reorganizado puntos de red, llevado inventario de activos TI, dado soporte a equipos y usuarios, participado en migración y control de calidad de datos catastrales, y desarrollado y administrado el sitio web bilingüe de un hotel.
 
-<img src="assets/section-02-areas.svg" alt="" width="100%" />
+**Convierto problemas en tranquilidad.**
+
+### Cómo trabajo
+
+- **Escucho primero.** Entiendo el problema y a la persona que lo vive.
+- **Resuelvo con claridad.** Soluciones simples, explicadas y documentadas.
+- **Acompaño hasta el final.** Confirmo que funciona y sigo disponible.
+
+<img src="assets/section-02-trayectoria.svg" alt="" width="100%" />
+
+## Trayectoria
+
+<picture>
+  <source media="(max-width: 700px)" srcset="assets/timeline-mobile.svg">
+  <img src="assets/timeline.svg" alt="Trayectoria: Hotel Villa Las Palmas, recepción y desarrollo web (2025 – actualidad); Municipalidad de Orotina, desarrollo de software (2026); GCG Culinary, soporte TI e infraestructura (2026)" width="100%" />
+</picture>
+
+<img src="assets/section-03-areas.svg" alt="" width="100%" />
 
 ## Dónde puedo aportar
 
@@ -47,12 +60,13 @@ Me caracterizan la curiosidad, la atención al detalle y una comunicación cerca
   <img src="assets/astronaut-guide.svg" alt="Un pequeño astronauta camina sobre una órbita entre estrellas" width="100%" />
 </picture>
 
-<img src="assets/section-03-tech.svg" alt="" width="100%" />
+<img src="assets/section-04-tech.svg" alt="" width="100%" />
 
 ## Tech Universe
 
 <picture>
   <source media="(max-width: 700px)" srcset="assets/tech-universe-mobile.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/tech-universe-still.svg">
   <img src="assets/tech-universe.svg" alt="Mapa orbital de tecnologías: TypeScript, React, Next.js, C#/.NET, Java, Python, SQL, MongoDB, Docker, Linux, AWS y Cisco alrededor de un núcleo de soporte TI, redes, software y datos" width="100%" />
 </picture>
 
@@ -70,43 +84,32 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 
 </details>
 
-<img src="assets/section-04-proyectos.svg" alt="" width="100%" />
+<img src="assets/section-05-proyectos.svg" alt="" width="100%" />
 
 ## Proyectos destacados
 
+También diseño y administro sitios web para negocios. **Tu próximo cliente podría estar a un clic de distancia.**
+
 <p align="center">
-  <a href="https://hotel-villa-las-palmas-orotina.netlify.app"><img src="assets/project-hotel.svg" width="430" alt="Hotel Villa Las Palmas: sitio bilingüe para un hotel familiar en Orotina" /></a>
-  <a href="https://nexoti-cr.netlify.app"><img src="assets/project-nexoti.svg" width="430" alt="NEXOTI: plataforma local-first de gestión documental y auditoría" /></a>
+  <a href="https://hotel-villa-las-palmas-orotina.netlify.app"><img src="assets/project-hotel-card.svg" width="290" alt="Hotel Villa Las Palmas: sitio bilingüe para un hotel familiar en Orotina" /></a>
+  <a href="https://nexoti-cr.netlify.app"><img src="assets/project-nexoti-card.svg" width="290" alt="NEXOTI: plataforma local-first de gestión documental y auditoría" /></a>
+  <a href="https://sebastian-peraza.netlify.app"><img src="assets/project-portafolio-card.svg" width="290" alt="Portafolio personal: vista directa y exploración 3D opcional" /></a>
 </p>
 
-**Hotel Villa Las Palmas** — Sitio informativo bilingüe para un hotel familiar en Orotina: habitaciones, villas, pase del día, galería, mapa, WhatsApp y privacidad.  
-`Next.js` `React` `TypeScript` `Tailwind CSS`  
-[Visitar sitio](https://hotel-villa-las-palmas-orotina.netlify.app)
+<img src="assets/section-06-actividad.svg" alt="" width="100%" />
 
-**NEXOTI** — Plataforma local-first de gestión documental, auditoría de controles y seguimiento correctivo; los archivos se procesan en el navegador.  
-[Visitar sitio](https://nexoti-cr.netlify.app)
-
-**Portafolio personal** — Vista directa completa y exploración 3D opcional, con contenido bilingüe y foco en accesibilidad y rendimiento.  
-`React` `TypeScript` `Vite` `Three.js`  
-[Visitar sitio](https://sebastian-peraza.netlify.app)
-
-<img src="assets/section-05-actividad.svg" alt="" width="100%" />
-
-## Constelación de contribuciones
+## Actividad
 
 <picture>
   <source media="(max-width: 700px) and (prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-mobile-still.svg">
-  <source media="(max-width: 700px)" srcset="assets/activity-constellation-mobile-motion.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/activity-constellation-still.svg">
-  <img src="assets/activity-constellation-motion.svg" alt="12 contribuciones en 4 días activos durante el último año, visualizadas como una constelación" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sebasprzd/Sebasprzd/output/activity-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Sebasprzd/Sebasprzd/output/activity-snake.svg" alt="Serpiente recorriendo el gráfico de contribuciones de GitHub" width="100%" />
 </picture>
 
-**12 contribuciones · 4 días activos · últimos 12 meses.**  
 [Ver actividad completa en GitHub](https://github.com/Sebasprzd) · [Repositorios públicos](https://github.com/Sebasprzd?tab=repositories)
 
-*Snapshot de actividad pública. El gráfico nativo de GitHub sigue disponible en el perfil.*
-
-<img src="assets/section-06-contacto.svg" alt="" width="100%" />
+<img src="assets/section-07-contacto.svg" alt="" width="100%" />
 
 ## Contacto
 
@@ -116,9 +119,18 @@ Windows 11 · Linux · Cisco · VLANs · OSPFv2 · ACLs · NAT · WLAN/WLC · Do
 - **Correo:** [speraza.desa17@gmail.com](mailto:speraza.desa17@gmail.com)
 - **Ubicación:** Orotina, Alajuela, Costa Rica
 - **Idiomas:** Español nativo · English B2
-- **Disponibilidad:** inmediata
+- **Disponibilidad:** inmediata · trabajo remoto
 
-*Open to opportunities in IT support, networking, software development and data.*
+<details>
+<summary><strong>English</strong></summary>
+
+**Technology that solves. Care that stays.** I turn problems into peace of mind.
+
+I hold a Bachelor's degree in Information Technology Engineering from Universidad Técnica Nacional, Costa Rica. I work between the infrastructure that keeps daily work running and the software that makes it simpler: IT support, networking, development and data.
+
+I am open to opportunities in IT support, networking, software development and data. [Portfolio](https://sebastian-peraza.netlify.app) · [LinkedIn](https://www.linkedin.com/in/sebasprzd/)
+
+</details>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer-still.svg">
